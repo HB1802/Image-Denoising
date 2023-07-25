@@ -1,6 +1,6 @@
 # ONGC-Image-Denoising
 
-The project focuses on image denoising using a Convolutional Neural Network (CNN) and an Autoencoder model. The BSDS 500 dataset is used for training, validation, and testing. The objective is to determine the performance of both models and compare them.
+The project focuses on image denoising using a Convolutional Neural Network (CNN) and an Autoencoder model. The BSDS 500 dataset is used for training, validation, and testing(Link for the dataset - https://drive.google.com/file/d/1Ye465NnM8VYsVXYw93DqLdYNUnISbsYj/view?usp=sharing). The objective is to determine the performance of Model developed and compare it other models.
 
 The code starts by loading and preprocessing the training, validation, and testing datasets from the BSDS 500 dataset. The images are converted to grayscale and resized to a fixed height and width. Additionally, pairs of noisy and clean images are generated for training.
 
