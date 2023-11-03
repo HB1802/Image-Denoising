@@ -1,4 +1,4 @@
-# ONGC-Image-Denoising
+Image-Denoising
 
 The project focuses on developing a model for the task of Image Denoising. The BSDS 500 dataset is used for training, validation, and testing(Link for the dataset - https://drive.google.com/file/d/1Ye465NnM8VYsVXYw93DqLdYNUnISbsYj/view?usp=sharing). The objective is to achieve a good  performance from the  Model developed and compare it other models.
 
